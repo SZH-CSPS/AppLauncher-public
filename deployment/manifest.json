@@ -1,6 +1,6 @@
 ﻿{
     "channel":  "stable",
-    "latest_version":  "0.2.2",
+    "latest_version":  "0.3.0",
     "minimum_updater_version":  "0.1.0",
     "artifacts":  [
                       {
@@ -22,6 +22,13 @@
                           "platform":  "win64",
                           "url":  "https://github.com/SZH-CSPS/AppLauncher-public/releases/download/v0.2.2/SZH-AppLauncher-0.2.2-win64.zip",
                           "sha256":  "a39e5d3cf0665486ebae085e8c9f114c85e2e0bea0a46cb5c86c6e6e68a01b8c",
+                          "app_exe":  "SZH-AppLauncher.exe"
+                      },
+                      {
+                          "version":  "0.3.0",
+                          "platform":  "win64",
+                          "url":  "https://github.com/SZH-CSPS/AppLauncher-public/releases/download/v0.3.0/SZH-AppLauncher-0.3.0-win64.zip",
+                          "sha256":  "2ec9448b34c94618069aa7a77f4546e0c382e2d73a01266d80b4cfdc600fed80",
                           "app_exe":  "SZH-AppLauncher.exe"
                       }
                   ]
