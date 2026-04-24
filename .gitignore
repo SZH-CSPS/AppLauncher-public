@@ -1,0 +1,14 @@
+# Build outputs
+build/
+dist/
+release/
+
+# Python/cache noise
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.log
